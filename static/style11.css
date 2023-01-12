@@ -1,0 +1,38 @@
+.form-container-1 {
+    width: 400px;
+    height: 650px;
+    box-shadow: 2px 2px 5px rgb(202, 198, 198);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .form-box {
+    width: 200%;
+    height: 90%;
+    padding: 20px;
+    background-color: white;
+  }
+  .submit-8{
+      position: absolute;
+      top: 580px;
+      left: 140px;
+      font-family: Calibri;
+      font-weight: Bold;
+      font-size: 36px;
+      opacity: 1;
+      text-align: center;
+  }
+  .line-1{
+      color: rgb(252, 174, 7);
+      position: absolute;
+      top: 2100px;
+      left: 600px;
+      font-family: Calibri;
+      font-weight: Bold;
+      font-size: 36px;
+      opacity: 1;
+      text-align: center;
+  }
+  .line2{
+      color: rgb(20, 255, 51);
+      }

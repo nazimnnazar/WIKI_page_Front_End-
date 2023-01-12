@@ -1,0 +1,290 @@
+.header-image {
+    background-image: url('img/IT-company.jpg');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.ap{
+    color: rgba(34,140,237,1);
+    position: absolute;
+    top: 800px;
+    left: 570px;
+    font-family: Calibri;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+        }
+.ah{
+    /* color: rgba(34,140,237,1); */
+    position: absolute;
+    top: 850px;
+    left: 430px;
+    font-family: Calibri;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+
+.a24{
+    /* color: rgba(34,140,237,1); */
+    position: absolute;
+    top: -10px;
+    left: 100px;
+    font-family: Calibri;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+.a25{
+    /* color: rgba(34,140,237,1); */
+    position: absolute;
+    top: -10px;
+    left: 250px;
+    font-family: Calibri;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+.branch-container {
+  display: flex;
+  align-items: center;
+}
+
+.branch-name {
+  font-size: 22px;
+  margin-right: 10px;
+}
+
+.white-button {
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+  padding: 8px 12px;
+  font-size: 14px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+.search{
+  width: 683px;
+  height: 40px;
+  opacity: 1;
+  position: absolute;
+  top: 930px;
+  left: 320px;
+  overflow: hidden;
+
+}
+.photo{  
+  position: absolute;
+  top: 1000px;
+  left: 590px;
+  font-family: Calibri;
+  font-weight: Bold;
+  font-size: 36px;
+  opacity: 1;
+  text-align: center;
+  }
+  .photo_1 {
+    width: 752px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1050px;
+    left: 274px;
+    font-family: Calibri;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .photo_2 {
+    width: 752px;
+    color: rgba(0,0,0,1);
+    position: absolute;
+    top: 1300px;
+    left: 274px;
+    font-family: Calibri;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .meeting{
+    color: rgba(34,140,237,1);
+    position: absolute;
+    top: 1500px;
+    left: 450px;
+    font-family: Calibri;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+        }
+  .meeting-1 {
+    /* color: rgba(34,140,237,1); */
+    position: absolute;
+    top: 1560px;
+    left: 590px;
+    font-family: Calibri;
+    font-weight: Bold;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+}
+.date{
+
+  position: absolute;
+  top: 1650px;
+  left: 540px;
+  font-family: Calibri;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+      }
+        body{
+        margin-top:20px;
+    }
+    .bg-light-gray {
+        background-color: #f7f7f7;
+    }
+    .table-bordered thead td, .table-bordered thead th {
+        border-bottom-width: 2px;
+    }
+    .table thead th {
+        vertical-align: bottom;
+        border-bottom: 2px solid #dee2e6;
+    }
+    .table-bordered td, .table-bordered th {
+        border: 1px solid #dee2e6;
+    }
+    
+    
+    .bg-sky.box-shadow {
+        box-shadow: 0px 5px 0px 0px #00a2a7
+    }
+    
+    .bg-orange.box-shadow {
+        box-shadow: 0px 5px 0px 0px #af4305
+    }
+    
+    .bg-green.box-shadow {
+        box-shadow: 0px 5px 0px 0px #4ca520
+    }
+    
+    .bg-yellow.box-shadow {
+        box-shadow: 0px 5px 0px 0px #dcbf02
+    }
+    
+    .bg-pink.box-shadow {
+        box-shadow: 0px 5px 0px 0px #e82d8b
+    }
+    
+    .bg-purple.box-shadow {
+        box-shadow: 0px 5px 0px 0px #8343e8
+    }
+    
+    .bg-lightred.box-shadow {
+        box-shadow: 0px 5px 0px 0px #d84213
+    }
+    
+    
+    .bg-sky {
+        background-color: #02c2c7
+    }
+    
+    .bg-orange {
+        background-color: #e95601
+    }
+    
+    .bg-green {
+        background-color: #5bbd2a
+    }
+    
+    .bg-yellow {
+        background-color: #f0d001
+    }
+    
+    .bg-pink {
+        background-color: #ff48a4
+    }
+    
+    .bg-purple {
+        background-color: #9d60ff
+    }
+    
+    .bg-lightred {
+        background-color: #ff5722
+    }
+    
+    .padding-15px-lr {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .padding-5px-tb {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+    .margin-10px-bottom {
+        margin-bottom: 10px;
+    }
+    .border-radius-5 {
+        border-radius: 5px;
+    }
+    
+    .margin-10px-top {
+        margin-top: 10px;
+    }
+    .font-size14 {
+        font-size: 14px;
+    }
+    
+    .text-light-gray {
+        color: #d6d5d5;
+    }
+    .font-size13 {
+        font-size: 13px;
+    }
+    
+    .table-bordered td, .table-bordered th {
+        border: 1px solid #dee2e6;
+    }
+    .table td, .table th {
+        padding: .75rem;
+        vertical-align: top;
+        border-top: 1px solid #dee2e6;
+    }
+    .table-1{
+
+position: absolute;
+top: 1680px;
+left: 330px;
+font-family: Calibri;
+font-weight: Bold;
+font-size: 18px;
+opacity: 1;
+text-align: center;
+    }
+.box-1{
+position: absolute;
+top: 2300px;
+left: 80px;
+font-family: Calibri;
+font-weight: Bold;
+font-size: 18px;
+opacity: 1;
+text-align: center;
+    }
+.button-1{
+position: absolute;
+top: 2460px;
+left: 620px;
+font-family: Calibri;
+font-weight: Bold;
+font-size: 18px;
+opacity: 1;
+text-align: center;
+    }
